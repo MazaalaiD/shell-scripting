@@ -1,0 +1,6 @@
+Pas de réelles difficultés.j'ai vérifié le manuel de ls et j'y ai trouvétoutes les options dont j'avais besoin .
+
+-R est une option recursive
+-I est le format liste longue 
+-h est pour les tailles de fichiers lisibles par l'homme
+-a est d'afficher les fichiers cachés
